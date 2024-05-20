@@ -5,4 +5,4 @@ Uppgift 1:
   
 Uppgift 2:
 - LaggaTillAnstalld Metod: Frågar användaren om namnet och lönen för den anställde och lägger till den anställde i listan.
-- VisaAnstallda Metod: Skriver ut alla anställdas detaljer som är lagrade i listan.
+
