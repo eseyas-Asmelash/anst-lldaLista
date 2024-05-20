@@ -1,9 +1,9 @@
 ﻿List<Anstalld> anstallda = new List<Anstalld>();
-Console.WriteLine("Enter antal anställda på restaurang"); 
+Console.WriteLine("skriv antal anställda på restaurang"); 
 var antalanstallda = int.Parse(Console.ReadLine());
 for (int i = 0; i < antalanstallda; i++)
 {
-    Console.WriteLine($"Enter information for person {i + 1}");
+    Console.WriteLine($"Skriv information for personal {i + 1}");
     Console.Write("Namn: ");
     var name = Console.ReadLine();
     Console.WriteLine("Lön: ");
